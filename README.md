@@ -1,0 +1,2 @@
+# pytomate
+Python to automate ;)
